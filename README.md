@@ -11,7 +11,7 @@ A React Native mobile application that allows users to browse, search, and bookm
 - Clean and intuitive user interface
 - Loading states and error handling
 
-### Search & Filter
+### Search 
 - Search across multiple job parameters:
   - Job titles
   - Company names
@@ -19,7 +19,6 @@ A React Native mobile application that allows users to browse, search, and bookm
   - Salary ranges
   - Experience levels
 - Real-time search results
-- Search history (coming soon)
 
 ### Dark Mode
 - System theme detection
