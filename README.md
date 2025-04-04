@@ -51,10 +51,6 @@ A React Native mobile application that allows users to browse, search, and bookm
 - **Context API**: For state management
 - **REST API Integration**: For job data fetching
 
-## 📱 Video Referencing
-
-- Video Link  -  " https://drive.google.com/file/d/1a2KW7lI7-F8yGn8yEt5MQvbDmJFIyqWY/view?usp=sharing "
-
 ## 🏗️ Project Structure
 
 jobportalrn/
@@ -72,6 +68,6 @@ jobportalrn/
 └── components/ # Reusable components
 └── ThemeToggleButton.js
 
+## 📱 Video Referencing
 
-
-.
+- Video Link  -  " https://drive.google.com/file/d/1a2KW7lI7-F8yGn8yEt5MQvbDmJFIyqWY/view?usp=sharing "
