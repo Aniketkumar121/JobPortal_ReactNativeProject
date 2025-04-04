@@ -53,20 +53,20 @@ A React Native mobile application that allows users to browse, search, and bookm
 
 ## 🏗️ Project Structure
 
-jobportalrn/
-├── App.js # Main application component
-├── navigation/ # Navigation configuration
-│ └── JobsStackNavigator.js
-├── screens/ # Main screen components
-│ ├── JobsScreen.js
-│ ├── JobDetailScreen.js
-│ └── BookmarksScreen.js
-├── utils/ # Utility functions and contexts
-│ ├── db.js
-│ ├── styles.js
-│ └── ThemeContext.js
-└── components/ # Reusable components
-└── ThemeToggleButton.js
+- jobportalrn/
+- ├── App.js # Main application component
+- ├── navigation/ # Navigation configuration
+- │ └── JobsStackNavigator.js
+- ├── screens/ # Main screen components
+- │ ├── JobsScreen.js
+- │ ├── JobDetailScreen.js
+- │ └── BookmarksScreen.js
+- ├── utils/ # Utility functions and contexts
+- │ ├── db.js
+- │ ├── styles.js
+- │ └── ThemeContext.js
+- └── components/ # Reusable components
+- └── ThemeToggleButton.js
 
 ## 📱 Video Referencing
 
